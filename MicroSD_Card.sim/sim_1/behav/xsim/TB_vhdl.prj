@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../MicroSD_Card.srcs/sources_1/new/Commands_Package.vhd" \
+"../../../../MicroSD_Card.srcs/sources_1/new/MPG.vhd" \
+"../../../../MicroSD_Card.srcs/sources_1/new/rational_divider.vhd" \
+"../../../../MicroSD_Card.srcs/sources_1/new/SD_Controller.vhd" \
+"../../../../MicroSD_Card.srcs/sources_1/new/Memory.vhd" \
+"../../../../MicroSD_Card.srcs/sources_1/new/VGA_Controller.vhd" \
+"../../../../MicroSD_Card.srcs/sources_1/new/Main.vhd" \
+"../../../../MicroSD_Card.srcs/sources_1/new/TB.vhd" \
+
+# Do not sort compile order
+nosort

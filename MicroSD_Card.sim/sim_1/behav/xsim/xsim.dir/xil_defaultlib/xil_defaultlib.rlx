@@ -1,0 +1,12 @@
+0.6
+2019.1
+Sep  4 2019
+09:57:52
+C:/Users/Adelina/Desktop/MicroSD_Card/MicroSD_Card.srcs/sources_1/new/Commands_Package.vhd,1578574459,vhdl,C:/Users/Adelina/Desktop/MicroSD_Card/MicroSD_Card.srcs/sources_1/new/SD_Controller.vhd,,,command_package,,,,,,,,
+C:/Users/Adelina/Desktop/MicroSD_Card/MicroSD_Card.srcs/sources_1/new/MPG.vhd,1576159058,vhdl,C:/Users/Adelina/Desktop/MicroSD_Card/MicroSD_Card.srcs/sources_1/new/Main.vhd,,,mpg,,,,,,,,
+C:/Users/Adelina/Desktop/MicroSD_Card/MicroSD_Card.srcs/sources_1/new/Main.vhd,1578576756,vhdl,C:/Users/Adelina/Desktop/MicroSD_Card/MicroSD_Card.srcs/sources_1/new/TB.vhd,,,main,,,,,,,,
+C:/Users/Adelina/Desktop/MicroSD_Card/MicroSD_Card.srcs/sources_1/new/Memory.vhd,1578575198,vhdl,C:/Users/Adelina/Desktop/MicroSD_Card/MicroSD_Card.srcs/sources_1/new/Main.vhd,,,memory,,,,,,,,
+C:/Users/Adelina/Desktop/MicroSD_Card/MicroSD_Card.srcs/sources_1/new/SD_Controller.vhd,1578574536,vhdl,C:/Users/Adelina/Desktop/MicroSD_Card/MicroSD_Card.srcs/sources_1/new/Main.vhd,,,sd_controller,,,,,,,,
+C:/Users/Adelina/Desktop/MicroSD_Card/MicroSD_Card.srcs/sources_1/new/TB.vhd,1578576822,vhdl,,,,tb,,,,,,,,
+C:/Users/Adelina/Desktop/MicroSD_Card/MicroSD_Card.srcs/sources_1/new/VGA_Controller.vhd,1576484822,vhdl,C:/Users/Adelina/Desktop/MicroSD_Card/MicroSD_Card.srcs/sources_1/new/Main.vhd,,,vga_controller,,,,,,,,
+C:/Users/Adelina/Desktop/MicroSD_Card/MicroSD_Card.srcs/sources_1/new/rational_divider.vhd,1576483823,vhdl,C:/Users/Adelina/Desktop/MicroSD_Card/MicroSD_Card.srcs/sources_1/new/Main.vhd,,,rational_divider,,,,,,,,
